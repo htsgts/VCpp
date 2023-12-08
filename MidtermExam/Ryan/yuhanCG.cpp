@@ -1,5 +1,6 @@
 #include <tchar.h>
 #include <Windows.h>
+#include "yuhanCG.h"
 
 LRESULT CALLBACK WndProc(HWND hWnd, UINT msg, WPARAM wParam, LPARAM lParam);
 
